@@ -2,6 +2,10 @@
 
 It's a student account featuring some course projects.
 
+Check those accounts for personal projects: \
+[twaddwa](https://github.com/twaddwa) \
+[dorutowa](https://github.com/dorutowa)
+
 <!--
 **zzarc/zzarc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
